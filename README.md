@@ -13,6 +13,7 @@ This contains two parts:
   
 * Document detailing mathematics behind the above listed supervised algorithms 
 
+Here are a set of images where we use a few basic datasets to see how the algorithms work.
 
-[Decision Tree Testing](Results/DecisionTree.png)
-
+* [Decision Tree Testing](Results/DecisionTree.png)
+* [Comparing Fourier, Lasso and Ridge on noiosy exponential data] (Results/Fourier_Ridge_Lasso.png)
