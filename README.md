@@ -11,4 +11,7 @@ This contains two parts:
   * Ridge Regression
   * Support Vector Machine (Regression)
   
-* Document containing Mathematics behind these supervised algorithms 
+* Document detailing mathematics behind the above listed supervised algorithms 
+
+
+![Decision Tree Testing](Results/DecisionTree.png)
