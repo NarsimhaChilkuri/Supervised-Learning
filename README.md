@@ -1,4 +1,14 @@
 # Supervised Machine Learning
 This contains two parts:
-* Code from scratch of popular supervised learning algorithms
+* Code (from scratch) for popular supervised learning algorithms. They are listed below in alphabetic order:
+  * Decision Trees (Classification and Regression)
+  * Fourier Basis Regression in one Dimension
+  * K-Nearsest Neighbours (Classification and Regression)
+  * Lasso Regression
+  * Logistic Regression
+  * Linear Discriminant Analysis 
+  * Neural Network (binray Classification)
+  * Ridge Regression
+  * Support Vector Machine (Regression)
+  
 * Document containing Mathematics behind these supervised algorithms 
