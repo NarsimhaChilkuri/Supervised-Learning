@@ -1,6 +1,6 @@
 ## Supervised Machine Learning
 This contains two parts:
-* Code (from scratch) for popular supervised learning algorithms. They are listed below in alphabetic order:
+1. Code (from scratch) for popular supervised learning algorithms. They are listed below in alphabetic order:
   * Decision Trees (Classification and Regression)
   * Fourier Basis Regression in one Dimension
   * K-Nearsest Neighbours (Classification and Regression)
@@ -11,7 +11,7 @@ This contains two parts:
   * Ridge Regression
   * Support Vector Machine (Regression)
   
-* [Document](/Mathematics-of-ML.pdf) detailing mathematics behind the above listed supervised algorithms (work in progress...)
+2. [Document](/Mathematics-of-ML.pdf) detailing mathematics behind the above listed supervised algorithms (work in progress...)
 
 Below are a set of images where a few basic datasets were used to see how these algorithms work.
 
