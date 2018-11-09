@@ -1,4 +1,4 @@
-# Supervised Machine Learning
+## Supervised Machine Learning
 This contains two parts:
 * Code (from scratch) for popular supervised learning algorithms. They are listed below in alphabetic order:
   * Decision Trees (Classification and Regression)
