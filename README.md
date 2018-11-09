@@ -14,4 +14,5 @@ This contains two parts:
 * Document detailing mathematics behind the above listed supervised algorithms 
 
 
-![Decision Tree Testing](Results/DecisionTree.png)
+[Decision Tree Testing](Results/DecisionTree.png)
+
