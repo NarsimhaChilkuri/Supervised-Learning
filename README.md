@@ -13,7 +13,7 @@ This contains two parts:
   
 * [Document](/Mathematics-of-ML.pdf) detailing mathematics behind the above listed supervised algorithms (work in progress...)
 
-Here are a set of images where a few basic datasets were used to see how these algorithms work.
+Below are a set of images where a few basic datasets were used to see how these algorithms work.
 
 * [Decision Tree](Results/DecisionTree.png)
 * [Comparing Fourier, Lasso and Ridge on noiosy exponential data](Results/Fourier_RIdge_Lasso.png)
