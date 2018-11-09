@@ -11,7 +11,7 @@ This contains two parts:
   * Ridge Regression
   * Support Vector Machine (Regression)
   
-* Document detailing mathematics behind the above listed supervised algorithms 
+* Document detailing mathematics behind the above listed supervised algorithms (work in progress...)
 
 Here are a set of images where we use a few basic datasets to see how these algorithms work.
 
