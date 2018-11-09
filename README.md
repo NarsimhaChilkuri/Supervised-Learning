@@ -17,7 +17,7 @@ Here are a set of images where we use a few basic datasets to see how these algo
 
 * [Decision Tree](Results/DecisionTree.png)
 * [Comparing Fourier, Lasso and Ridge on noiosy exponential data](Results/Fourier_RIdge_Lasso.png)
-* [Lasso Regression](Results/Lasso.png)
+* [Lasso Regression](Results/Lasso.PNG)
 * [K-nearest Neighbours](Results/KNN.png)
 * [Logistic Regression](Results/LogisticRegression.png)
 * [Linear Discriminant Analysis](Results/LDA.png)
