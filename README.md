@@ -11,7 +11,7 @@ This contains two parts:
   * Ridge Regression
   * Support Vector Machine (Regression)
   
-* [Document](/Mathematics-of-ML.pdf) detailing mathematics behind the above listed supervised algorithms (work in progress...)
+* [Document](/Mathematics-of-ML.pdf) detailing mathematics behind the above listed supervised algorithms (**work in progress...**)
 
 Below are a set of images where a few basic datasets were used to see how these algorithms work.
 
