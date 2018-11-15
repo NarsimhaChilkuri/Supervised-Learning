@@ -1,7 +1,9 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
 class NeuralNetwork:
     """
+
     Classification (multi-class) usign linear discriminant analysis.
 
     NOTE: This implementation has high variance -- try running
@@ -27,9 +29,10 @@ class NeuralNetwork:
         self.X = X
         self.Y = Y
 
-        # Useful quantites
+        # Useful quantities
         self.N = self.X.shape[1]
         self.p = self.X.shape[0]
+        self.nn_structure =  [self.p] + nn_structure + [1]
         self.L = len(self.nn_structure)
         self.dW = {}
         self.db = {}
@@ -39,11 +42,10 @@ class NeuralNetwork:
         self.Z = {}
 
         # Hyper-parameters
+        self.activation = activation
         self.alpha = alpha
         self.iterations = iterations
         self.init_const = init_const
-        self.activation = activation
-        self.nn_structure =  [self.p] + nn_structure + [1]
 
         # Parameters
         self.W = {}
