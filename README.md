@@ -1,5 +1,5 @@
 ## Supervised Machine Learning
-This contains two parts:
+This repository contains two parts:
 * Code (from scratch) for popular supervised learning algorithms. They are listed below in alphabetic order:
   * Decision Trees (Classification and Regression)
   * Fourier Basis Regression in one Dimension
@@ -13,7 +13,7 @@ This contains two parts:
   
 * [Document](/Mathematics-of-ML.pdf) detailing mathematics behind the above listed supervised algorithms (**work in progress...**)
 
-Below are a set of images where a few basic datasets were used to see how these algorithms work.
+Below are a set of images where a few basic datasets were used to see how these algorithms work. Take a look at the the [file](/Implementations.ipynb) to see how the code was implemented to generate the following picures. 
 
 * [Decision Tree](Results/DecisionTree.png)
 * [Comparing Fourier, Lasso and Ridge on noiosy exponential data](Results/Fourier_RIdge_Lasso.png)
