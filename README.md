@@ -9,7 +9,7 @@ This repository contains two parts:
   * Linear Discriminant Analysis 
   * Neural Network (binray Classification)
   * Ridge Regression
-  * Support Vector Machine (Regression)
+  * Support Vector Machine (Classification)
   
 * [Document](/Mathematics-of-ML.pdf) detailing mathematics behind the above listed supervised algorithms (**work in progress...**)
 
