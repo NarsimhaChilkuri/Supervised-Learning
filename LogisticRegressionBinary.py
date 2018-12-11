@@ -17,7 +17,7 @@ class LogisticReg:
     """
 
     def __init__(self, X, Y, alpha, iterations):
-        self.X = self.add_ones_column(X)
+        self.X = np.column_stack((np.ones(len(X)),X))
         self.Y = Y
 
         # Parameters
@@ -28,12 +28,6 @@ class LogisticReg:
         self.iterations = iterations
 
         self.predictions = 0
-
-    def add_ones_column(self, A):
-        ones_column = np.ones((A.shape[0], 1))
-        B = np.append(A, ones_column, axis=1)
-        return B
-
 
     def compute_gradient(self):
 
