@@ -2,7 +2,7 @@ import numpy as np
 
 class FourierReg:
     """
-    Regression usign Fourier Basis in 1D.
+    Regression using Fourier Basis in 1D. Using a naive fourier transform rather than DFT.
 
     Args:
 
